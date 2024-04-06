@@ -1,0 +1,2 @@
+framework - Nextjs, typescript, framer-motion, tailwindcss, fontawesome icons
+components - Header, Hero, Gallery, Contact, About, footer 
